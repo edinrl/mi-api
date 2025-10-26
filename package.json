@@ -2,7 +2,8 @@
   "name": "api",
   "version": "1.0.0",
   "description": "API for UGEL Talara system",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "type": "commonjs",
   "scripts": {
     "dev": "nodemon src/index.js",
     "build": "babel src --out-dir dist",
