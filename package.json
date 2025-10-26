@@ -9,17 +9,6 @@
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FranklynRT/ProyectoSeminarioG4.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FranklynRT/ProyectoSeminarioG4/issues"
-  },
-  "homepage": "https://github.com/FranklynRT/ProyectoSeminarioG4#readme",
   "dependencies": {
     "@babel/cli": "^7.28.3",
     "@babel/core": "^7.28.5",
