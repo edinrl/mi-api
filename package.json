@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/FranklynRT/ProyectoSeminarioG4#readme",
   "dependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
