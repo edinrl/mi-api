@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "API for UGEL Talara system",
   "main": "src/index.js",
-  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
     "build": "babel src --out-dir dist",
